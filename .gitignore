@@ -1,0 +1,4 @@
+.venv/
+# AI model weights
+weights/
+*.pt
